@@ -1,0 +1,209 @@
+# Translation of Plugins - WP Simple Spreadsheet Fetcher for Google - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Simple Spreadsheet Fetcher for Google - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-08 14:35:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Simple Spreadsheet Fetcher for Google - Stable (latest release)\n"
+
+#: blocks/src/fetcher-advanced/fetcher-advanced.js:63
+#: blocks/build/fetcher-advanced.js:1
+msgid "Event Registration Advanced"
+msgstr "イベント登録（高度）"
+
+#: blocks/src/fetcher-advanced/fetcher-advanced.js:56
+#: blocks/build/fetcher-advanced.js:1
+msgid "Event Registration Simple"
+msgstr "イベント登録（シンプル）"
+
+#: blocks/src/fetcher-advanced/fetcher-advanced.js:49
+#: blocks/build/fetcher-advanced.js:1
+msgid "Select Layout"
+msgstr "レイアウト設定"
+
+#: blocks/src/fetcher-advanced/fetcher-advanced.js:10
+#: blocks/build/fetcher-advanced.js:1
+msgid "Fetcher Advanced"
+msgstr "アドバンスドフェッチャー"
+
+#: blocks/src/fetcher-advanced/layout-dep.js:60
+#: blocks/src/fetcher-advanced/layout.js:60 blocks/build/fetcher-advanced.js:1
+#: blocks/build/layout-dep.js:1 blocks/build/layout.js:1
+msgid "100"
+msgstr "100"
+
+#: blocks/src/fetcher-advanced/layout-dep.js:36
+#: blocks/src/fetcher-advanced/layout.js:36 blocks/build/fetcher-advanced.js:1
+#: blocks/build/layout-dep.js:1 blocks/build/layout.js:1
+msgid "Free"
+msgstr "無料"
+
+#: blocks/src/fetcher-advanced/layout-dep.js:26
+#: blocks/src/fetcher-advanced/layout.js:26
+#: blocks/src/fetcher-advanced/layout.js:127 blocks/build/fetcher-advanced.js:1
+#: blocks/build/layout-dep.js:1 blocks/build/layout.js:1
+msgid "General Participant"
+msgstr "一般参加者"
+
+#: blocks/src/fetcher-item/fetcher-item.js:102 blocks/build/fetcher-item.js:1
+msgid "Please set the cell to fetch data in A1 notation. Example : Sheets1!A1"
+msgstr "データを取得するセルか範囲をA1 表記で設定してください。例 : シート1!A1:E"
+
+#: blocks/src/fetcher-item/fetcher-item.js:82 blocks/build/fetcher-item.js:1
+msgid "Cell"
+msgstr "セル"
+
+#: blocks/src/fetcher-item/fetcher-item.js:12 blocks/build/fetcher-item.js:1
+msgid "Fetcher Item"
+msgstr "フェーッチャーアイテム"
+
+#: blocks/src/fetcher/fetcher.js:135
+#: blocks/src/fetcher-item/fetcher-item.js:122 blocks/build/fetcher-item.js:1
+#: blocks/build/fetcher.js:1
+msgid "Fetch Data Setting"
+msgstr "データ取得設定"
+
+#: blocks/src/fetcher/fetcher.js:115 blocks/build/fetcher.js:1
+msgid "Please set the cell or range to fetch data in A1 notation. Example : Sheets1!A1:E"
+msgstr "データを取得するセルか範囲をA1 表記で設定してください。例 : シート1!A1:E"
+
+#: blocks/src/fetcher/fetcher.js:95 blocks/build/fetcher.js:1
+msgid "Cell or Range"
+msgstr "セルか範囲"
+
+#: blocks/src/fetcher/fetcher.js:81 blocks/src/fetcher-item/fetcher-item.js:68
+#: blocks/build/fetcher-item.js:1 blocks/build/fetcher.js:1
+msgid "Sheet Name"
+msgstr "シート名"
+
+#: blocks/src/fetcher/fetcher.js:67 blocks/src/fetcher-item/fetcher-item.js:54
+#: blocks/build/fetcher-item.js:1 blocks/build/fetcher.js:1
+msgid "Sheet URL"
+msgstr "シート URL"
+
+#: blocks/src/fetcher/fetcher.js:31 blocks/build/fetcher.js:1
+msgid "None"
+msgstr "無し"
+
+#: blocks/src/fetcher/fetcher.js:27 blocks/build/fetcher.js:1
+msgid "Line"
+msgstr "ライン"
+
+#: blocks/src/fetcher/fetcher.js:22 blocks/build/fetcher.js:1
+msgid "Default"
+msgstr "デフォルト"
+
+#: blocks/src/fetcher/fetcher.js:12 blocks/build/fetcher.js:1
+msgid "Fetcher"
+msgstr "フェッチャー"
+
+#: blocks/build/get-value-query.php:61
+msgid "Cell or Range is not set. Please set it from the sidebar. Example : A1:A5"
+msgstr "セルもしくは範囲が設定されていません。サイドバーから設定してください。例: A1: A5"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:120
+msgid "Settings"
+msgstr "設定"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:81
+msgid "Tutorial Video"
+msgstr "チュートリアルビデオ"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:77
+msgid "2. Save your API key from the form above."
+msgstr "2. 上記のフォームから API キーを保存します。"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:63
+msgid "Setting API key"
+msgstr "API キー設定"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:43
+msgid "API Key set!"
+msgstr "API キーがセットされました。"
+
+#: blocks/build/get-value-query.php:64
+msgid "Cell is not set. Please set it from the sidebar. Example : A1"
+msgstr "セルが設定されていません。サイドバーから設定してください。例: A1"
+
+#: blocks/build/get-value-query.php:56
+msgid "Sheet Name is not set. Please set it from the sidebar. Example : Sheet1"
+msgstr "シート名が設定されていません。サイドバーから設定してください。例: シート1"
+
+#: blocks/build/get-value-query.php:51
+msgid "Fetch data setting is not set. Please set it from the sidebar."
+msgstr "データの取得設定が設定されていません。サイドバーから設定してください。"
+
+#: blocks/build/get-value-query.php:42
+msgid "Sheet URL is not set. Please set it from the sidebar."
+msgstr "シートURL が設定されていません。サイドバーから設定してください。"
+
+#: blocks/build/get-value-query.php:37
+msgid "API-KEY is not set Please set it at the "
+msgstr "API キーが設定されていません。"
+
+#: blocks/build/get-value-query.php:36
+msgid "settings."
+msgstr "設定"
+
+#. Description of the plugin
+msgid "This is the simple plugin to fetch data from Google Sheets and display it on your website. Please go to \"Plugins\" > \"WP-Simple-Spreadsheet-Fetcher-for-Google\" for initial setting."
+msgstr "これは、Googleスプレッドシートからデータを取得してウェブサイトに表示するシンプルなプラグインです。初期設定については、「プラグイン \t WP-Simple-Spreadsheet-Fetcher-for-Google」に移動してください。"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:79
+msgid "4. Choose blocks at \"WP Simple Spreadsheet Fetcher for Google\" category , use side panel to indicate the cell to fetch data."
+msgstr "4.「WP Simple Spreadsheet Fetcher for Google」カテゴリでブロックを選択し、サイドパネルを使用してデータを取得するセルを指定します。"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:78
+msgid "https://support.google.com/drive/answer/2494822#link_sharing"
+msgstr "https://support.google.com/drive/answer/2494822#link_sharing"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:78
+msgid "3. Turn on Get shareable link . For more detail . Please refer to "
+msgstr "3. 「共有可能なリンク」を有効にします。詳細については以下を参照してください。"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:76
+msgid "https://developers.google.com/sheets/api/quickstart/js#step_1_turn_on_the"
+msgstr "https://developers.google.com/sheets/api/quickstart/js#step_1_turn_on_the"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:76
+msgid "1. Create the API key . For more detail . Please refer to "
+msgstr "1. API キーを作成します。詳細については以下を参照してください。"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:74
+msgid "How to use"
+msgstr "使い方"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:68
+msgid "API Key : "
+msgstr "API キー:"
+
+#: wp-simple-spreadsheet-fetcher-for-google.php:49
+msgid "You have not entered your API key"
+msgstr "API キーが入力されていません。"
+
+#: blocks/build/get-value-query.php:78
+msgid "No data found."
+msgstr "データが見つかりませんでした。"
+
+#. Author URI of the plugin
+msgid "https://naoki-is-me"
+msgstr "https://naoki-is-me"
+
+#. Author of the plugin
+msgid "Naoki Ohashi"
+msgstr "Naoki Ohashi"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/naogify/wp-simple-google-sheets-fetcher"
+msgstr "https://github.com/naogify/wp-simple-google-sheets-fetcher"
+
+#. Plugin Name of the plugin
+#: wp-simple-spreadsheet-fetcher-for-google.php:90
+#: wp-simple-spreadsheet-fetcher-for-google.php:91 blocks/build/index.php:153
+msgid "WP Simple Spreadsheet Fetcher for Google"
+msgstr "WP Simple Spreadsheet Fetcher for Google"
