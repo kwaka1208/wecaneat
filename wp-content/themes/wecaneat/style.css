@@ -1,0 +1,22 @@
+/*
+Theme Name: we can eat
+Theme URI: https://wecaneat.crssrds.jp/
+Author: Kenichi Wakabayashi
+Author URI: https://wecaneat.crssrds.jp/
+Description: boki cafe Theme
+Version: 1.00
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, accessibility-ready, custom-logo, custom-menu, featured-images, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog, education, news
+Text Domain: we can eat
+Template: lightning
+Author WordPress Theme, Copyright 2019 Compete Themes
+Author is distributed under the terms of the GNU GPL
+*/
+
+@import url('../lightning/style.css');
+
+footer .site-footer {
+	display: none;
+}
+
